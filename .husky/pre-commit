@@ -3,4 +3,4 @@
 
 yarn prettier --check .
 yarn lint
-yarn lint
+yarn test
